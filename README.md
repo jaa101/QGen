@@ -1,0 +1,2 @@
+# QGen
+Quality Generalizer
